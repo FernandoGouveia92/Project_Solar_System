@@ -5,8 +5,8 @@ class Title extends React.Component {
   render() {
     const { headline } = this.props;
     return (
-      <div>
-        <h2>{headline}</h2>
+      <div className="headline">
+        <h2 className="planetsTitle">{headline}</h2>
       </div>
     );
   }
