@@ -12,27 +12,29 @@ MENSÃO ESPECIAL
 Gostaria de agradecer a Ronan Salvador, que é um colega de turma, na Trybe School. Ronan me auxiliou no CSS desse projeto e foi excencial para deixar a forma que eu queria.
 
 As redes sociais de Ronan:
+<p/>
 Linkedin - https://www.linkedin.com/in/ronansalvador/
+<p/>
 Github - https://github.com/ronansalvador
 
 ---
 
-COMPONENTES DESENVOLVIDOS POR MIM
+#### COMPONENTES DESENVOLVIDOS POR MIM
 
 Todos os arquivos dentro da pasta /src foram criados e desenvolvidos por mim.
 
 ---
 
-ARQUIVOS E/OU DIRETÓRIOS FEITOS PELA TRYBE
+#### ARQUIVOS E/OU DIRETÓRIOS FEITOS PELA TRYBE
 
 Quaisquer outros arquivos/diretórios que fazem parte do projeto, foram providenciados pela Trybe School.
 
 ---
 
-TECNOLOGIAS
+#### TECNOLOGIAS
 
 ReactJS, CSS, HTML5.
 
-BREVE DESCRIÇÃO
+#### BREVE DESCRIÇÃO
 
 Neste projeto, foram aplicados conhecimentos sobre render, classes, proptypes, estado local e componentes.
